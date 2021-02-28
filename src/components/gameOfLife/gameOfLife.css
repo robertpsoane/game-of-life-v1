@@ -1,0 +1,14 @@
+.board {
+  position: static; /* or absolute */
+  top: 50%;
+  left: 50%;
+}
+
+.cellrow {
+  display: inherit;
+  height: 20px;
+}
+
+.mini-margin {
+  margin: 10px;
+}
